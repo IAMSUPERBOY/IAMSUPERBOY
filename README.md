@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**IAMSUPERBOY/IAMSUPERBOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I am Suraj
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+- I am BTech CSE Undergraduate student
+
+- An Extroverted Introvert
+
+
+- Currently in the process of sorting out my interests.
+
+
+### Interests:
+
+
+- Cybersecurity
+- Machine Learning & AI 
+- C++ & Python
+- Competitive programming 
