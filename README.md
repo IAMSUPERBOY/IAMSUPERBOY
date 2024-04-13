@@ -10,7 +10,7 @@
 
 - I am BTech CSE Undergraduate student
 
-- An Extroverted Introvert
+
 
 
 ### Interests:
